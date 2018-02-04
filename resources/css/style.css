@@ -536,18 +536,14 @@ cite img {
 
 .plan-price {
     margin-bottom: 10px;
-    font-weight: 100;
     color: #e67e22;
     text-align: center;
 }
 
 .plan-price span {
-    font-size: 30%;
-    font-weight: 300;
 }
 
 .plan-price-meal {
-    font-size: 80%;
 }
 
 
